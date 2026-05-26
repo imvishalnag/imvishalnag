@@ -108,9 +108,9 @@ Saving **30–45 minutes of manual work every day** by automating dev workflows 
 | Period | Role | Company |
 |--------|------|---------|
 | Nov 2022 – Present | **Senior React Native Developer** | Programming.com (Client: Nivoda) |
+| Jul 2022 – Oct 2022 | **System Engineer** | Tata Consultancy Services (TCS) |
 | Aug 2020 – Jul 2022 | **Senior RN Developer & Team Lead** | Web Infotech |
 | Dec 2018 – Jul 2022 | **Senior Frontend Web Developer** | Web Infotech |
-| Jul 2022 – Oct 2022 | **System Engineer** | Tata Consultancy Services (TCS) |
 
 ---
 
