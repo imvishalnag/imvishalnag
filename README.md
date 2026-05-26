@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/vishal-nag"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:imvishalnagg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:imvishalnag@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Guwahati%2C%20Assam-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -152,7 +152,7 @@ Saving **30–45 minutes of manual work every day** by automating dev workflows 
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:imvishalnagg@gmail.com">
+  <a href="mailto:imvishalnag@gmail.com">
     <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
