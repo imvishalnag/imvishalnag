@@ -127,12 +127,11 @@ Saving **30–45 minutes of manual work every day** by automating dev workflows 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imvishalnag&show_icons=true&theme=dark&hide_border=true&title_color=F7A800&icon_color=F7A800&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imvishalnag&theme=dark&hide_border=true&ring=F7A800&fire=F7A800&currStreakLabel=F7A800&background=0d1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imvishalnag&theme=dark&hide_border=true&ring=F7A800&fire=F7A800&currStreakLabel=F7A800&background=0d1117" alt="GitHub Streak" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvishalnag&layout=compact&theme=dark&hide_border=true&title_color=F7A800&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imvishalnag&theme=github_dark" alt="GitHub Profile Summary" width="90%" />
 </p>
 
 ---
